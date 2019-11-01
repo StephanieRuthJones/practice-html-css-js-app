@@ -1,5 +1,5 @@
 ### HTML, CSS, and JS PRACTICE APP
-![Portfolio Site Demo](images/website-gif.gif)
+![Portfolio Site Demo](images/website.gif)
 
 1. Add the appropriate references to the CSS and JavaScript files in your HTML file
     **What tags do you need to use?**
