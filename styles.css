@@ -1,4 +1,4 @@
-body {
+body, header {
     margin: 0;
     padding: 0;
 }
@@ -27,4 +27,39 @@ body {
 .navbar a.active {
     background-color: #4CAF50;
     color: white;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    color:#93938F;
+    font-size: 50px;
+}
+
+
+#about-image{
+    padding:50px;
+    width:30%;
+    float:left;
+}
+
+#about {
+    padding:50px;
+    width:50%;
+    float:left
+}
+
+.about-title{
+    font-size: 30px;
+}
+
+.about-text {
+    font-size: 20px;
 }
